@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: #FF2D0D;
+    padding: 100px 300px 100px 300px;
+    background-image: url('../material/apex/imagems/Apex-Legends-logo.png');
+    background-repeat: no-repeat;
+    background-size: 20em;
+    background-position: center left;
+    background-image: url('../material/apex/imagems/ae.png');
+    background-position: center right;
+}
+
+
+header {
+    padding: 10px;
+    background-color: #CC240A;
+}
+
+main {
+    background-color: white;   
+    padding: 10px;
+}
+
+footer {
+    background-color: #CC240A;
+    padding: 10px;
+    margin: 0px;
+}
+
+p {
+    margin: 10px;
+}
