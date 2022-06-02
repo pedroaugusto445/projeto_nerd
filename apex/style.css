@@ -29,6 +29,9 @@ h1{
 
 p {
     font-family: var(--fontnormal);
+    margin: 6px;
+    padding: 10px;
+    
 }
 
 
@@ -49,18 +52,13 @@ header > img {
 main {
     background-color: white;   
     padding: 10px;
-    margin: 5px;
+    margin: 0px;
 }
 
 footer {
     background-color: #CC240A;
     padding: 10px;
     margin: 0px;
-}
-
-p {
-    margin: 10px;
-    padding: 5px;
 }
 
 a {
