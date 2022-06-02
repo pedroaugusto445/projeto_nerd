@@ -49,6 +49,7 @@ header > img {
 main {
     background-color: white;   
     padding: 10px;
+    margin: 5px;
 }
 
 footer {
@@ -59,6 +60,7 @@ footer {
 
 p {
     margin: 10px;
+    padding: 5px;
 }
 
 a {
