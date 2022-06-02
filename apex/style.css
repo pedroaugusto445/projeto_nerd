@@ -7,14 +7,34 @@
 
 body{
     background-color: #FF2D0D;
-    padding: 100px 300px 100px 300px;
-    background-image: url('../material/apex/imagems/Apex-Legends-logo.png');
-    background-repeat: no-repeat;
-    background-size: 20em;
-    background-position: center left;
-    background-image: url('../material/apex/imagems/ae.png');
-    background-position: center right;
+    padding: 200px;
 }
+
+
+
+div.img {
+   border: 5px solid black; 
+   height: 100px;
+   width: 10em;
+}
+
+div#img1 {
+    margin: 10px;
+    padding: 20px;
+    background-image: url('../material/apex/imagems/Apex-Legends-logo.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div#img2 {
+
+    background-image: url('../material/apex/imagems/ae.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 
 
 header {
