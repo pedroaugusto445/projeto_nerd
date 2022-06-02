@@ -2,6 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap');
+
+
+
 
 * {
     margin: 0px;
@@ -9,12 +13,22 @@
 }
 
 :root {
-    
+    --fonth1:'Open Sans', sans-serif;
+
+     --fontnormal:  'Nunito Sans', sans-serif;
 }
 
 body{
     background-color: #FF2D0D;
     padding: 200px;
+}
+
+h1{
+    font-family: var(--fonth1);
+}
+
+p {
+    font-family: var(--fontnormal);
 }
 
 
@@ -45,4 +59,14 @@ footer {
 
 p {
     margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(0, 0, 255, 0.61);
+    font-family: var(--fontnormal);
+}
+
+a:hover {
+    text-decoration: underline;
 }
