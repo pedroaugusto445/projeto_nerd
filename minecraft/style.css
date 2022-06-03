@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+}
+
+body {
+    background-image: url('../material/minecraft/imagems/f65aefcb7a8e98a932ad646fb90dbd2d.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+}
+
+header {
+    background-color: darkgreen;
+    text-align: center;
+}
+
+header img {  
+    width: 400px;
+    padding: 5px;
+}
+
+
+
+main {
+    background-color: white;
+}
+
+main p {
+    margin: 10px;
+}
