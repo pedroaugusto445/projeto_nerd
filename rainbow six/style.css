@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    text-align: justify;
+}
+
+body {
+  background-image: url('../material/rainbow six/imagems/Rainbow-Six-Thatcher.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+
+main {
+    background-color: white;
+    width: 800px;
+    height: 800px;
+}
+
+main p  {
+    margin: 10px;
+    padding: 3px;
+}
+
+main h1 {
+    margin: 10px;
+    padding: 3;
+}
