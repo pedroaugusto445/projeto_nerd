@@ -56,6 +56,14 @@ p {
     font-family: var(--fontp);
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 footer {
     background-color: brown;
     padding: 3px;
