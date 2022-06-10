@@ -34,8 +34,7 @@ header {
 
 header img {
     display: block;
-    max-width: 300px;
-    min-width: 50px;
+    width: 300px;
     margin: auto;
     border: 3px solid black;
 }
