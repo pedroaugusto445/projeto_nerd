@@ -54,6 +54,7 @@ h2 {
 p {
     padding: 15px;
     font-family: var(--fontp);
+    width: 50px;
 }
 
 footer {
